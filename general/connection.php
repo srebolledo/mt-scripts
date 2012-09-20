@@ -1,7 +1,7 @@
 <?php
 	$user = 'root';
 	$pass = 'root';
-	$host = 'localhost';
+	$host = ':/Applications/MAMP/tmp/mysql/mysql.sock';
 	$database = 'ner-twitter';
 	$link = mysql_connect($host,$user,$pass);
 
