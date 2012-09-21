@@ -1,10 +1,4 @@
-array(2) {
-  [0]=>
-  string(19) "convert_to_utf8.php"
-  [1]=>
-  string(7) "sql.sql"
-}
-sql.sql-- phpMyAdmin SQL Dump
+-- phpMyAdmin SQL Dump
 -- version 3.5.0
 -- http://www.phpmyadmin.net
 --
