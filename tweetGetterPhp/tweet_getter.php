@@ -6,12 +6,16 @@ date_default_timezone_set('America/Santiago');
 
 $arrayOfConcepts = array('accidente','fiesta','desfile','despedida','torneo','partido','reunion','concierto','festival','desfile','campeonato',
   'mundial','feria','cumbre','congreso','choque','robo','felicitacion','premio','premiacion','ceremonia','taco','trafico','evento');
+while(1){
 
-foreach($arrayOfConcepts as $concept){
-  $q = $concept;
-  $first_page = true;
-  fetchTweets($q,$first_page);
+  foreach($arrayOfConcepts as $concept){
+    $q = $concept;
+    $first_page = true;
+    fetchTweets($q,$first_page);
+  }  
+  sleep(3600);
 }
+
 
 function fetchTweets($q, $first_page){
   while($response = getTweets($q,$first_page)){
