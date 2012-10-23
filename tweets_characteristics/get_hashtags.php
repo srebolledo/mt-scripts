@@ -1,6 +1,6 @@
 <?php
   require_once '../general/connection.php';
-  mysql_select_db('tweets');
+  mysql_select_db('twitter');
   $sql = "select * from tweets where count_tweet_hash > 0";
   $handler = mysql_query($sql) or die(mysql_error());
   while($row = mysql_fetch_array($handler)){
