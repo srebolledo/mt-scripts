@@ -1,5 +1,6 @@
 <?php
   require_once '../general/connection.php';
+  mysql_select_db("twitter");
   mysql_query("truncate table tweet_characteristics");
   $sql = "select id, tweet from tweets";
   $handler = mysql_query($sql) or die(mysql_error());
