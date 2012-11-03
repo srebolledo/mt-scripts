@@ -1,9 +1,9 @@
 <?php
 	$user = 'root';
-	$pass = 'root';
-	$host = ':/Applications/MAMP/tmp/mysql/mysql.sock';
+	$pass = '';
+	$host = 'localhost';
 	//$host = ':/Applications/MAMP/tmp/mysql/mysql.sock';
-	$database = 'ner-twitter';
+	$database = 'twitter';
 	$link = mysql_connect($host,$user,$pass);
 
 	if(!$link){

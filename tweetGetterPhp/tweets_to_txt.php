@@ -1,11 +1,14 @@
 <?php
-  include '../general/conection.php';
-  $sql = "Select * from new_tweets";
-  $handler = mysql_query($sql);
+  include '../general/connection.php';
+  $sql = "Select * from tweets_new";
+  mysql_select_db("twitter",$link);
+  $handler = mysql_query($sql) or die(mysql_error());
   mkdir("tweets_in_txt");
+
   while ($row = mysql_fetch_array($handler)) {
     $tweet = $row["tweet"];
-    $file = fopen($row["tweet_id"],"w+");
+    $tweet = preg_replace('/[\s]+/',' ',$tweet);
+    $file = fopen("tweets_in_txt/".$row["tweet_id"]."-unclassified.txt","w+");
     fprintf($file, "%s\n",$tweet);
     fclose($file);
   }
