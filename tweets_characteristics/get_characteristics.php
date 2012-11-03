@@ -5,6 +5,7 @@
   $handler = mysql_query($sql) or die(mysql_error());
   while($row = mysql_fetch_array($handler)){
     $tweet = trim($row['tweet']);
+    $tweet = preg_replace('/[\s]+/',' ',$tweet);
     $count_words = count(explode(' ',$tweet));
     $count_tweet_mentions = preg_match_all('/@.*/', $tweet, $matches);
     $count_tweet_hash = preg_match_all('/#.*/', $tweet, $matches);
