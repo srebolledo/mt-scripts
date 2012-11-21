@@ -3,6 +3,14 @@
   mysql_select_db("twitter");
   $sql = "select * from tweet_user_characteristics";
   $handler = mysql_query($sql) or die(mysql_error());
+  $ids = array();
+  while($row = mysql_fetch_array($handler)){
+      $ids[] = $row['id'];
+  }
+  $sql = "update tweet_user_characteristics set issued = 1 where id in(".implode(",",$ids).");";
+  mysql_query($sql);
+  $sql = "select * from tweet_user_characteristics";
+  $handler = mysql_query($sql) or die(mysql_error());
   while($row = mysql_fetch_array($handler)){
     $tweet_user_id = $row['id'];
     $json_url = "http://api.twitter.com/1/statuses/user_timeline.json?include_rts=true&screen_name=".$row['name']."&count=1";
