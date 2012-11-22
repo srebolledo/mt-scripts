@@ -29,7 +29,7 @@
       echo $sql."\n";
       mysql_query($sql);
     }
-    sleep(3600);
+    sleep(905);
     $sql = "update tweet_user_characteristics set issued = 0 where number_of_tweets = 0";
     mysql_query($sql);
   }
