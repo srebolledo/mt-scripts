@@ -33,7 +33,7 @@
     );
 
     $responseDecoded = json_decode($connection->response['response'],true);
-    print_r($responseDecoded);
+    //print_r($responseDecoded);
     foreach($responseDecoded as $jsonObject){
 
 /*      $tweet_user_id = $row['id'];
