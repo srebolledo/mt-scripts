@@ -56,7 +56,8 @@
       $screenName = $userObject['screen_name'];
       
       $sql = sprintf("update tweet_user_characteristics set number_of_tweets = $tweetCount, number_of_followers = '%s', number_of_following = '%s', number_of_lists = '%s', number_of_favourited = '%s', json_getted = '%s' where name = '%s'",$followers, $following, $listCount, $favouriteCount, mysql_real_escape_string($json_to_parse), $screenName );
-      echo $sql."\n";
+      //echo $sql."\n";
+      echo "Updating: ".$screenName."\n";
       mysql_query($sql) or die(mysql_error());  
     }
 	 echo "\n\n***************************\n\nREACHED LIMIT!\n\n***************************\n\n";
