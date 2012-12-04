@@ -1,9 +1,9 @@
 <?php
-	$user = 'root';
-	$pass = '';
-	$host = 'localhost';
+	$user = 'stephan';
+	$pass = 'adelante2008';
+	$host = 'plop.inf.udec.cl';
 	//$host = ':/Applications/MAMP/tmp/mysql/mysql.sock';
-	$database = 'twitter';
+	$database = 'stephan';
 	$link = mysql_connect($host,$user,$pass);
 
 	if(!$link){
