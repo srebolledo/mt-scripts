@@ -64,6 +64,7 @@
           echo "[".getTimeNow()."] Durmiendo por $remainingTime segundos\n";
           sleep($remainingTime);
         }
+        $counter = 0;
 
     }
   }
