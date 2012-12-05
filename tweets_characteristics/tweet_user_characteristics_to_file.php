@@ -58,7 +58,8 @@
           $connection->url('application/rate_limit_status')
         );
         $responseDecoded = json_decode($connection->response['response'],true);
-        $remainingTime = time()-$responseDecoded['resources']['users']['/users/lookup']['reset'];
+        $time = time();
+        echo $time-$responseDecoded['resources']['users']['/users/lookup']['reset'];
         if($remainingTime > 0 ) {
           echo "[".getTimeNow()."] Durmiendo por $remainingTime segundos\n";
           sleep($remainingTime);
