@@ -36,7 +36,7 @@ function storeInfo($responseDecoded){
           $followers, $following, $listCount, $favouriteCount, mysql_real_escape_string($json_to_parse), $screenName );
       echo $sql."\n";
       echo "Updating: ".$screenName."\n";
-      //mysql_query($sql) or die(mysql_error());
+      mysql_query($sql) or die(mysql_error());
     }
 }
 
