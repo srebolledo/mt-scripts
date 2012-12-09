@@ -37,7 +37,7 @@ function storeInfo($responseDecoded){
           $screenName );
       //echo $sql."\n";
       echo "Updating: ".$screenName."\n";
-      //mysql_query($sql) or die(mysql_error());
+      mysql_query($sql) or die(mysql_error());
     }
 }
 ?>
