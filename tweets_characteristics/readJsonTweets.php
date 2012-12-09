@@ -11,9 +11,8 @@
         $ext = end(explode('.', $entry));
         if($ext == "txt"){
           $file = file_get_contents($folder."/".$entry);
-          print_r(json_decode($file,true));
-          storeInfo(json_decode($file,true));
           rename($folder."/".$entry, $newFolder."/".$entry);
+          storeInfo(json_decode($file,true));
           break;
         }
       }
@@ -38,7 +37,7 @@ function storeInfo($responseDecoded){
           $screenName );
       //echo $sql."\n";
       echo "Updating: ".$screenName."\n";
-      mysql_query($sql) or die(mysql_error());
+      //mysql_query($sql) or die(mysql_error());
     }
 }
 ?>
