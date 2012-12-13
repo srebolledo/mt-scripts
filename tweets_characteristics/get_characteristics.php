@@ -15,6 +15,7 @@
     $id = $row['id'];
     $sql = "Insert into tweet_characteristics values (null, $id, $count_words,0,0,0, $count_tweet_mentions, $count_tweet_hash, $part_of_conversation)";
     echo $sql."\n";
+    mysql_query($sql);
 
   }
 ?>
