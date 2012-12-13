@@ -2,7 +2,7 @@
   require_once '../general/connection.php';
   mysql_select_db("twitter");
   mysql_query("truncate table tweet_characteristics");
-  $sql = "select id, tweet, tweet_reference from tweets_new limit 1";
+  $sql = "select id, tweet, tweet_reference from tweets_new";
   $handler = mysql_query($sql) or die(mysql_error());
   while($row = mysql_fetch_array($handler)){
     $tweet = trim($row['tweet']);
