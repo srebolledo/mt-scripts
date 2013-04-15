@@ -1,6 +1,6 @@
 <?php
   include '../general/connection.php';
-  $sql = "Select * from tweets_new";
+  $sql = "Select * from tweets_new order by rand() limit 4000";
   mysql_select_db("twitter",$link);
   $handler = mysql_query($sql) or die(mysql_error());
   mkdir("tweets_in_txt");

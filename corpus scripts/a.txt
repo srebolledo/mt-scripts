@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr" class="client-nojs">
+<head>
+<title>Categoría:ES:Adjetivos - Wikcionario</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf12" />
+<link rel="alternate" type="application/x-wiki" title="Editar" href="/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;action=edit" />
+<link rel="edit" title="Editar" href="/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;action=edit" />
+<link rel="apple-touch-icon" href="//es.wiktionary.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/piece.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikcionario (es)" />
+<link rel="EditURI" type="application/rsd+xml" href="//es.wiktionary.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Feed Atom de Wikcionario" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/es.wiktionary.org/load.php?debug=false&amp;lang=es&amp;modules=ext.categoryTree.css%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/es.wiktionary.org/load.php?debug=false&amp;lang=es&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: eswiktionary:resourceloader:filter:minify-css:7:2d410ce2ada1c760c9ca8ac3a1e09501 */</style>
+
+<script src="//bits.wikimedia.org/es.wiktionary.org/load.php?debug=false&amp;lang=es&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"Category","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":14,"wgPageName":"Categoría:ES:Adjetivos","wgTitle":"ES:Adjetivos","wgCurRevisionId":927275,"wgArticleId":8432,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Español","Adjetivos"],"wgBreakFrames":false,"wgPageContentLanguage":"es","wgSeparatorTransformTable":[",	."," 	,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgMonthNamesShort":["","ene","feb","mar","abr","mayo","jun","jul","ago","sep","oct","nov","dic"],"wgRelevantPageName":"Categoría:ES:Adjetivos","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":false,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgMFPhotoUploadEndpoint":"//commons.wikimedia.org/w/api.php","wgUseFormatCookie":{"name":"mf_mobileFormat","duration":-1,"path":"/","domain":"es.wiktionary.org"},"wgStopMobileRedirectCookie":{"name":"stopMobileRedirect","duration":30,"domain":".wiktionary.org","path":"/"},"wgMFPhotoUploadAppendToDesc":"{{Uploaded from Mobile|platform=Web|version=}}","wgImagesDisabled":false,"wgMFMode":"stable","wgIsPageEditable":false,"wgPreferredVariant":"es","wgMFLoginHandshakeUrl":"//commons.wikimedia.org/wiki/Special:LoginHandshake?useformat=mobile","wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wiktionary"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"es","language":"es","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs828":false,"searchNs829":false});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});;},{},{});
+/* cache key: eswiktionary:resourceloader:filter:minify-js:7:2bfb677b73d8f10005aea3c57b9b5472 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.21wmf12/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-14 ns-subject page-Categoría_ES_Adjetivos skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script type="text/javascript">
+/* <![CDATA[ */
+document.writeln("\x3cdiv id=\"localNotice\" lang=\"es\" dir=\"ltr\"\x3e\x3c/div\x3e");
+/* ]]> */
+</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading" lang="es"><span dir="auto">Categoría:ES:Adjetivos</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">De Wikcionario, el diccionario libre</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Saltar a:					<a href="#mw-navigation">navegación</a>, 					<a href="#p-search">buscar</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="es" dir="ltr" class="mw-content-ltr"><ul>
+<li><b>Lista de <a href="/wiki/adjetivo" title="adjetivo">adjetivos</a> en español (en su mayoría calificativos) contenidos en el Wikcionario.</b></li>
+</ul>
+<center style="font-size:90%; color:#00688B"><b>Índice alfabético</b></center>
+<table id="toc" class="plainlinks" align="center" style="padding:1px 15px 1px 15px">
+<tr>
+<td style="text-align: center; font-weight:bold; font-size:105%;">
+<p><a class="external text" href="//es.wiktionary.org/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;from=-">guión</a> - <a class="external text" href="//es.wiktionary.org/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;from=A">A</a> - <a class="external text" href="//es.wiktionary.org/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;from=Á">Á</a> - <a class="external text" href="//es.wiktionary.org/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;from=B">B</a> - <a class="external text" href="//es.wiktionary.org/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;from=C">C</a> - <a class="external text" href="//es.wiktionary.org/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;from=D">D</a> - <a class="external text" href="//es.wiktionary.org/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;from=E">E</a> - <a class="external text" href="//es.wiktionary.org/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;from=É">É</a> - <a class="external text" href="//es.wiktionary.org/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;from=F">F</a> - <a class="external text" href="//es.wiktionary.org/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;from=G">G</a> - <a class="external text" href="//es.wiktionary.org/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;from=H">H</a> - <a class="external text" href="//es.wiktionary.org/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;from=I">I</a> - <a class="external text" href="//es.wiktionary.org/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;from=Í">Í</a> - <a class="external text" href="//es.wiktionary.org/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;from=J">J</a> - <a class="external text" href="//es.wiktionary.org/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;from=K">K</a> - <a class="external text" href="//es.wiktionary.org/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;from=L">L</a> - <a class="external text" href="//es.wiktionary.org/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;from=M">M</a> - <a class="external text" href="//es.wiktionary.org/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;from=N">N</a> - <a class="external text" href="//es.wiktionary.org/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;from=Ñ">Ñ</a> - <a class="external text" href="//es.wiktionary.org/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;from=O">O</a> - <a class="external text" href="//es.wiktionary.org/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;from=Ó">Ó</a> - <a class="external text" href="//es.wiktionary.org/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;from=P">P</a> - <a class="external text" href="//es.wiktionary.org/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;from=Q">Q</a> - <a class="external text" href="//es.wiktionary.org/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;from=R">R</a> - <a class="external text" href="//es.wiktionary.org/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;from=S">S</a> - <a class="external text" href="//es.wiktionary.org/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;from=T">T</a> - <a class="external text" href="//es.wiktionary.org/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;from=U">U</a> - <a class="external text" href="//es.wiktionary.org/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;from=Ú">Ú</a> - <a class="external text" href="//es.wiktionary.org/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;from=V">V</a> - <a class="external text" href="//es.wiktionary.org/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;from=W">W</a> - <a class="external text" href="//es.wiktionary.org/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;from=X">X</a> - <a class="external text" href="//es.wiktionary.org/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;from=Y">Y</a> - <a class="external text" href="//es.wiktionary.org/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;from=Z">Z</a></p>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 169/1000000
+Preprocessor generated node count: 744/1500000
+Post-expand include size: 5987/2048000 bytes
+Template argument size: 0/2048000 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key eswiktionary:pcache:idhash:8432-0!*!0!*!*!*!* and timestamp 20130330205214 -->
+<div lang="es" dir="ltr"><div id="mw-subcategories">
+<h2>Subcategorías</h2>
+<p>Esta categoría contiene las siguientes 6 subcategorías, de un total de 6.
+</p><div lang="es" dir="ltr" class="mw-content-ltr"><h3>E</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>×</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Categor%C3%ADa:ES:Gentilicios">ES:Gentilicios</a>‎ <span title="contiene 0 subcategorías, 802 páginas, y 0 archivos" dir="ltr">(802 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>×</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Categor%C3%ADa:ES:Locuciones_adjetivas">ES:Locuciones adjetivas</a>‎ <span title="contiene 0 subcategorías, 73 páginas, y 0 archivos" dir="ltr">(73 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li></ul><h3>F</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" style="display: none;" data-ct-title="ES:Formas_adjetivas_no_canónicas" title="mostrar" data-ct-state="collapsed">[<b>+</b>]</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Categor%C3%ADa:ES:Formas_adjetivas_no_can%C3%B3nicas">ES:Formas adjetivas no canónicas</a>‎ <span title="contiene 5 subcategorías, 1 824 páginas, y 0 archivos" dir="ltr">(5 C, 1 824 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li></ul><h3>N</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" style="display: none;" data-ct-title="ES:Adjetivos_numerales" title="mostrar" data-ct-state="collapsed">[<b>+</b>]</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Categor%C3%ADa:ES:Adjetivos_numerales">ES:Adjetivos numerales</a>‎ <span title="contiene 3 subcategorías, 0 páginas, y 0 archivos" dir="ltr">(3 C)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>×</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Categor%C3%ADa:ES:Numerales">ES:Numerales</a>‎ <span title="contiene 0 subcategorías, 0 páginas, y 0 archivos" dir="ltr">(vacía)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[<b>×</b>] </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Categor%C3%ADa:ES:N%C3%BAmeros">ES:Números</a>‎ <span title="contiene 0 subcategorías, 53 páginas, y 0 archivos" dir="ltr">(53 P)</span></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		</li></ul></div>
+</div><div id="mw-pages">
+<h2>Artículos en la categoría «ES:Adjetivos»</h2>
+<p>Las siguientes 200 páginas pertenecen a esta categoría, de un total de 8 424.
+</p>(200 previas) (<a href="/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;pagefrom=abuhardillado#mw-pages" title="Categoría:ES:Adjetivos">200 siguientes</a>)<div lang="es" dir="ltr" class="mw-content-ltr"><table style="width: 100%;"><tr style="vertical-align: top;"><td style="width: 33.3%;"><h3>A</h3>
+<ul><li><a href="/wiki/a_medio_morir_saltando" title="a medio morir saltando">a medio morir saltando</a></li>
+<li><a href="/wiki/aaronita" title="aaronita">aaronita</a></li>
+<li><a href="/wiki/aar%C3%B3nico" title="aarónico">aarónico</a></li>
+<li><a href="/wiki/abacal" title="abacal">abacal</a></li>
+<li><a href="/wiki/abacanado" title="abacanado">abacanado</a></li>
+<li><a href="/wiki/abacera" title="abacera">abacera</a></li>
+<li><a href="/wiki/abacero" title="abacero">abacero</a></li>
+<li><a href="/wiki/abacial" title="abacial">abacial</a></li>
+<li><a href="/wiki/abacteriano" title="abacteriano">abacteriano</a></li>
+<li><a href="/wiki/abadengo" title="abadengo">abadengo</a></li>
+<li><a href="/wiki/abadernado" title="abadernado">abadernado</a></li>
+<li><a href="/wiki/abad%C3%AD" title="abadí">abadí</a></li>
+<li><a href="/wiki/abajado" title="abajado">abajado</a></li>
+<li><a href="/wiki/abaje%C3%B1o" title="abajeño">abajeño</a></li>
+<li><a href="/wiki/abalado" title="abalado">abalado</a></li>
+<li><a href="/wiki/abalanzadizo" title="abalanzadizo">abalanzadizo</a></li>
+<li><a href="/wiki/abalaustrado" title="abalaustrado">abalaustrado</a></li>
+<li><a href="/wiki/abalconado" title="abalconado">abalconado</a></li>
+<li><a href="/wiki/abaleable" title="abaleable">abaleable</a></li>
+<li><a href="/wiki/abancayno" title="abancayno">abancayno</a></li>
+<li><a href="/wiki/abanca%C3%ADno" title="abancaíno">abancaíno</a></li>
+<li><a href="/wiki/abanderado" title="abanderado">abanderado</a></li>
+<li><a href="/wiki/abanderizador" title="abanderizador">abanderizador</a></li>
+<li><a href="/wiki/abandonado" title="abandonado">abandonado</a></li>
+<li><a href="/wiki/abandonista" title="abandonista">abandonista</a></li>
+<li><a href="/wiki/abanillero" title="abanillero">abanillero</a></li>
+<li><a href="/wiki/abanquino" title="abanquino">abanquino</a></li>
+<li><a href="/wiki/abanto" title="abanto">abanto</a></li>
+<li><a href="/wiki/abaptisto" title="abaptisto">abaptisto</a></li>
+<li><a href="/wiki/abarcable" title="abarcable">abarcable</a></li>
+<li><a href="/wiki/abarcado" title="abarcado">abarcado</a></li>
+<li><a href="/wiki/abarcador" title="abarcador">abarcador</a></li>
+<li><a href="/wiki/abaritonado" title="abaritonado">abaritonado</a></li>
+<li><a href="/wiki/abarquero" title="abarquero">abarquero</a></li>
+<li><a href="/wiki/abarquillado" title="abarquillado">abarquillado</a></li>
+<li><a href="/wiki/abarrado" title="abarrado">abarrado</a></li>
+<li><a href="/wiki/abarrajado" title="abarrajado">abarrajado</a></li>
+<li><a href="/wiki/abarrocado" title="abarrocado">abarrocado</a></li>
+<li><a href="/wiki/abarrotado" title="abarrotado">abarrotado</a></li>
+<li><a href="/wiki/abascano" title="abascano">abascano</a></li>
+<li><a href="/wiki/abasida" title="abasida">abasida</a></li>
+<li><a href="/wiki/abastante" title="abastante">abastante</a></li>
+<li><a href="/wiki/abastecedor" title="abastecedor">abastecedor</a></li>
+<li><a href="/wiki/abas%C3%AD" title="abasí">abasí</a></li>
+<li><a href="/wiki/abatanado" title="abatanado">abatanado</a></li>
+<li><a href="/wiki/abatible" title="abatible">abatible</a></li>
+<li><a href="/wiki/abayado" title="abayado">abayado</a></li>
+<li><a href="/wiki/abderitano" title="abderitano">abderitano</a></li>
+<li><a href="/wiki/abdicador" title="abdicador">abdicador</a></li>
+<li><a href="/wiki/abdicativo" title="abdicativo">abdicativo</a></li>
+<li><a href="/wiki/abdominal" title="abdominal">abdominal</a></li>
+<li><a href="/wiki/abductor" title="abductor">abductor</a></li>
+<li><a href="/wiki/abecedariano" title="abecedariano">abecedariano</a></li>
+<li><a href="/wiki/abejuno" title="abejuno">abejuno</a></li>
+<li><a href="/wiki/abellacado" title="abellacado">abellacado</a></li>
+<li><a href="/wiki/abellotado" title="abellotado">abellotado</a></li>
+<li><a href="/wiki/abemolado" title="abemolado">abemolado</a></li>
+<li><a href="/wiki/aberenjenado" title="aberenjenado">aberenjenado</a></li>
+<li><a href="/wiki/aberrante" title="aberrante">aberrante</a></li>
+<li><a href="/wiki/abertal" title="abertal">abertal</a></li>
+<li><a href="/wiki/abertzale" title="abertzale">abertzale</a></li>
+<li><a href="/wiki/aberzale" title="aberzale">aberzale</a></li>
+<li><a href="/wiki/abestiado" title="abestiado">abestiado</a></li>
+<li><a href="/wiki/abestializado" title="abestializado">abestializado</a></li>
+<li><a href="/wiki/abetunado" title="abetunado">abetunado</a></li>
+<li><a href="/wiki/abierta" title="abierta">abierta</a></li>
+<li><a href="/wiki/abierto" title="abierto">abierto</a></li></ul></td>
+<td style="width: 33.3%;"><h3>A cont.</h3>
+<ul><li><a href="/wiki/abierto_de_par_en_par" title="abierto de par en par">abierto de par en par</a></li>
+<li><a href="/wiki/abiertos" title="abiertos">abiertos</a></li>
+<li><a href="/wiki/abiet%C3%A1ceo" title="abietáceo">abietáceo</a></li>
+<li><a href="/wiki/abiet%C3%ADneo" title="abietíneo">abietíneo</a></li>
+<li><a href="/wiki/abigarrado" title="abigarrado">abigarrado</a></li>
+<li><a href="/wiki/abigotado" title="abigotado">abigotado</a></li>
+<li><a href="/wiki/abil" title="abil">abil</a></li>
+<li><a href="/wiki/abiol%C3%B3gico" title="abiológico">abiológico</a></li>
+<li><a href="/wiki/abip%C3%B3n" title="abipón">abipón</a></li>
+<li><a href="/wiki/abirritado" title="abirritado">abirritado</a></li>
+<li><a href="/wiki/abirritante" title="abirritante">abirritante</a></li>
+<li><a href="/wiki/abisal" title="abisal">abisal</a></li>
+<li><a href="/wiki/abisinio" title="abisinio">abisinio</a></li>
+<li><a href="/wiki/abismado" title="abismado">abismado</a></li>
+<li><a href="/wiki/abismal" title="abismal">abismal</a></li>
+<li><a href="/wiki/abism%C3%A1tico" title="abismático">abismático</a></li>
+<li><a href="/wiki/abizcochado" title="abizcochado">abizcochado</a></li>
+<li><a href="/wiki/abi%C3%B3tico" title="abiótico">abiótico</a></li>
+<li><a href="/wiki/abjasio" title="abjasio">abjasio</a></li>
+<li><a href="/wiki/abjurable" title="abjurable">abjurable</a></li>
+<li><a href="/wiki/ablandabrevas" title="ablandabrevas">ablandabrevas</a></li>
+<li><a href="/wiki/ablandador" title="ablandador">ablandador</a></li>
+<li><a href="/wiki/ablandah%C3%ADgos" title="ablandahígos">ablandahígos</a></li>
+<li><a href="/wiki/ablandante" title="ablandante">ablandante</a></li>
+<li><a href="/wiki/ablandativo" title="ablandativo">ablandativo</a></li>
+<li><a href="/wiki/ablaqueador" title="ablaqueador">ablaqueador</a></li>
+<li><a href="/wiki/ablativo" title="ablativo">ablativo</a></li>
+<li><a href="/wiki/ablatorio" title="ablatorio">ablatorio</a></li>
+<li><a href="/wiki/abluente" title="abluente">abluente</a></li>
+<li><a href="/wiki/ablusado" title="ablusado">ablusado</a></li>
+<li><a href="/wiki/ablu%C3%ADdo" title="abluído">abluído</a></li>
+<li><a href="/wiki/abnegado" title="abnegado">abnegado</a></li>
+<li><a href="/wiki/abobado" title="abobado">abobado</a></li>
+<li><a href="/wiki/abocado" title="abocado">abocado</a></li>
+<li><a href="/wiki/abocardado" title="abocardado">abocardado</a></li>
+<li><a href="/wiki/abocelado" title="abocelado">abocelado</a></li>
+<li><a href="/wiki/abocetado" title="abocetado">abocetado</a></li>
+<li><a href="/wiki/abochornado" title="abochornado">abochornado</a></li>
+<li><a href="/wiki/abocinado" title="abocinado">abocinado</a></li>
+<li><a href="/wiki/aboense" title="aboense">aboense</a></li>
+<li><a href="/wiki/abofado" title="abofado">abofado</a></li>
+<li><a href="/wiki/abofeteador" title="abofeteador">abofeteador</a></li>
+<li><a href="/wiki/abogadesco" title="abogadesco">abogadesco</a></li>
+<li><a href="/wiki/abogadil" title="abogadil">abogadil</a></li>
+<li><a href="/wiki/abogado" title="abogado">abogado</a></li>
+<li><a href="/wiki/abogador" title="abogador">abogador</a></li>
+<li><a href="/wiki/abohetado" title="abohetado">abohetado</a></li>
+<li><a href="/wiki/abolicionista" title="abolicionista">abolicionista</a></li>
+<li><a href="/wiki/abollable" title="abollable">abollable</a></li>
+<li><a href="/wiki/abollado" title="abollado">abollado</a></li>
+<li><a href="/wiki/abolsado" title="abolsado">abolsado</a></li>
+<li><a href="/wiki/abombado" title="abombado">abombado</a></li>
+<li><a href="/wiki/abominable" title="abominable">abominable</a></li>
+<li><a href="/wiki/abonado" title="abonado">abonado</a></li>
+<li><a href="/wiki/abonador" title="abonador">abonador</a></li>
+<li><a href="/wiki/abondado" title="abondado">abondado</a></li>
+<li><a href="/wiki/abondoso" title="abondoso">abondoso</a></li>
+<li><a href="/wiki/abonero" title="abonero">abonero</a></li>
+<li><a href="/wiki/aboquillado" title="aboquillado">aboquillado</a></li>
+<li><a href="/wiki/aboral" title="aboral">aboral</a></li>
+<li><a href="/wiki/abordable" title="abordable">abordable</a></li>
+<li><a href="/wiki/abordador" title="abordador">abordador</a></li>
+<li><a href="/wiki/aborigen" title="aborigen">aborigen</a></li>
+<li><a href="/wiki/aborlonado" title="aborlonado">aborlonado</a></li>
+<li><a href="/wiki/aborrachado" title="aborrachado">aborrachado</a></li>
+<li><a href="/wiki/aborrazado" title="aborrazado">aborrazado</a></li>
+<li><a href="/wiki/aborrecedero" title="aborrecedero">aborrecedero</a></li></ul></td>
+<td style="width: 33.3%;"><h3>A cont.</h3>
+<ul><li><a href="/wiki/aborrecible" title="aborrecible">aborrecible</a></li>
+<li><a href="/wiki/aborrecido" title="aborrecido">aborrecido</a></li>
+<li><a href="/wiki/aborregado" title="aborregado">aborregado</a></li>
+<li><a href="/wiki/aborrible" title="aborrible">aborrible</a></li>
+<li><a href="/wiki/abortivo" title="abortivo">abortivo</a></li>
+<li><a href="/wiki/abotinado" title="abotinado">abotinado</a></li>
+<li><a href="/wiki/abotonado" title="abotonado">abotonado</a></li>
+<li><a href="/wiki/abovedado" title="abovedado">abovedado</a></li>
+<li><a href="/wiki/aboyado" title="aboyado">aboyado</a></li>
+<li><a href="/wiki/abracadabrante" title="abracadabrante">abracadabrante</a></li>
+<li><a href="/wiki/abranquio" title="abranquio">abranquio</a></li>
+<li><a href="/wiki/abrasador" title="abrasador">abrasador</a></li>
+<li><a href="/wiki/abrasilado" title="abrasilado">abrasilado</a></li>
+<li><a href="/wiki/abrazable" title="abrazable">abrazable</a></li>
+<li><a href="/wiki/abrazadero" title="abrazadero">abrazadero</a></li>
+<li><a href="/wiki/abrerano" title="abrerano">abrerano</a></li>
+<li><a href="/wiki/abrevador" title="abrevador">abrevador</a></li>
+<li><a href="/wiki/abreviado" title="abreviado">abreviado</a></li>
+<li><a href="/wiki/abreviador" title="abreviador">abreviador</a></li>
+<li><a href="/wiki/abreviados" title="abreviados">abreviados</a></li>
+<li><a href="/wiki/abriboca" title="abriboca">abriboca</a></li>
+<li><a href="/wiki/abribonado" title="abribonado">abribonado</a></li>
+<li><a href="/wiki/abridero" title="abridero">abridero</a></li>
+<li><a href="/wiki/abridor" title="abridor">abridor</a></li>
+<li><a href="/wiki/abrigada" title="abrigada">abrigada</a></li>
+<li><a href="/wiki/abrigado" title="abrigado">abrigado</a></li>
+<li><a href="/wiki/abrigador" title="abrigador">abrigador</a></li>
+<li><a href="/wiki/abrile%C3%B1o" title="abrileño">abrileño</a></li>
+<li><a href="/wiki/abrillantador" title="abrillantador">abrillantador</a></li>
+<li><a href="/wiki/abrochado" title="abrochado">abrochado</a></li>
+<li><a href="/wiki/abrogable" title="abrogable">abrogable</a></li>
+<li><a href="/wiki/abromado" title="abromado">abromado</a></li>
+<li><a href="/wiki/abroquelado" title="abroquelado">abroquelado</a></li>
+<li><a href="/wiki/abrucense" title="abrucense">abrucense</a></li>
+<li><a href="/wiki/abrumado" title="abrumado">abrumado</a></li>
+<li><a href="/wiki/abrumador" title="abrumador">abrumador</a></li>
+<li><a href="/wiki/abrupto" title="abrupto">abrupto</a></li>
+<li><a href="/wiki/abrutado" title="abrutado">abrutado</a></li>
+<li><a href="/wiki/abruzo" title="abruzo">abruzo</a></li>
+<li><a href="/wiki/abr%C3%B3mico" title="abrómico">abrómico</a></li>
+<li><a href="/wiki/absente" title="absente">absente</a></li>
+<li><a href="/wiki/absentista" title="absentista">absentista</a></li>
+<li><a href="/wiki/absidal" title="absidal">absidal</a></li>
+<li><a href="/wiki/absintado" title="absintado">absintado</a></li>
+<li><a href="/wiki/absintiano" title="absintiano">absintiano</a></li>
+<li><a href="/wiki/absolutista" title="absolutista">absolutista</a></li>
+<li><a href="/wiki/absoluto" title="absoluto">absoluto</a></li>
+<li><a href="/wiki/absolutorio" title="absolutorio">absolutorio</a></li>
+<li><a href="/wiki/absolvedor" title="absolvedor">absolvedor</a></li>
+<li><a href="/wiki/absorbedor" title="absorbedor">absorbedor</a></li>
+<li><a href="/wiki/absorbente" title="absorbente">absorbente</a></li>
+<li><a href="/wiki/absorto" title="absorto">absorto</a></li>
+<li><a href="/wiki/abstemio" title="abstemio">abstemio</a></li>
+<li><a href="/wiki/abstencionista" title="abstencionista">abstencionista</a></li>
+<li><a href="/wiki/abstergente" title="abstergente">abstergente</a></li>
+<li><a href="/wiki/abstersivo" title="abstersivo">abstersivo</a></li>
+<li><a href="/wiki/abstinente" title="abstinente">abstinente</a></li>
+<li><a href="/wiki/abstractivo" title="abstractivo">abstractivo</a></li>
+<li><a href="/wiki/abstracto" title="abstracto">abstracto</a></li>
+<li><a href="/wiki/abstra%C3%ADdo" title="abstraído">abstraído</a></li>
+<li><a href="/wiki/abstruso" title="abstruso">abstruso</a></li>
+<li><a href="/wiki/absuelto" title="absuelto">absuelto</a></li>
+<li><a href="/wiki/absurdo" title="absurdo">absurdo</a></li>
+<li><a href="/wiki/abucardo" title="abucardo">abucardo</a></li>
+<li><a href="/wiki/abudab%C3%AD" title="abudabí">abudabí</a></li>
+<li><a href="/wiki/abuhado" title="abuhado">abuhado</a></li></ul></td>
+</tr></table></div>(200 previas) (<a href="/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;pagefrom=abuhardillado#mw-pages" title="Categoría:ES:Adjetivos">200 siguientes</a>)
+</div></div></div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Obtenido de «<a href="http://es.wiktionary.org/w/index.php?title=Categoría:ES:Adjetivos&amp;oldid=927275">http://es.wiktionary.org/w/index.php?title=Categoría:ES:Adjetivos&amp;oldid=927275</a>»				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categor%C3%ADas" title="Especial:Categorías">Categorías</a>: <ul><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol" title="Categoría:Español">Español</a></li><li><a href="/wiki/Categor%C3%ADa:Adjetivos" title="Categoría:Adjetivos">Adjetivos</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<div id="mw-navigation">
+			<h2>Menú de navegación</h2>
+			<!-- header -->
+			<div id="mw-head">
+				
+<!-- 0 -->
+<div id="p-personal" role="navigation" class="">
+	<h3>Herramientas personales</h3>
+	<ul>
+<li id="pt-createaccount"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Categor%C3%ADa%3AES%3AAdjetivos&amp;type=signup">Crear una cuenta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Categor%C3%ADa%3AES%3AAdjetivos" title="Te recomendamos iniciar sesión, sin embargo no es obligatorio [o]" accesskey="o">Iniciar sesión</a></li>	</ul>
+</div>
+
+<!-- /0 -->
+				<div id="left-navigation">
+					
+<!-- 0 -->
+<div id="p-namespaces" role="navigation" class="vectorTabs">
+	<h3>Espacios de nombres</h3>
+	<ul>
+					<li  id="ca-nstab-category" class="selected"><span><a href="/wiki/Categor%C3%ADa:ES:Adjetivos"  title="Ver la página de categoría [c]" accesskey="c">Categoría</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Categor%C3%ADa_discusi%C3%B3n:ES:Adjetivos"  title="Discusión acerca del artículo [t]" accesskey="t">Discusión</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3><span>Variantes</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+				</div>
+				<div id="right-navigation">
+					
+<!-- 0 -->
+<div id="p-views" role="navigation" class="vectorTabs">
+	<h3>Vistas</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Categor%C3%ADa:ES:Adjetivos" >Leer</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;action=edit"  title="Puedes editar esta página. Utiliza el botón de previsualización antes de guardar [e]" accesskey="e">Editar</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;action=history"  title="Versiones anteriores de esta página y sus autores [h]" accesskey="h">Ver historial</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet">
+	<h3><span>Acciones</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Buscar</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Buscar en Wikcionario [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Busca este texto en las páginas" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf12/skins/vector/images/search-ltr.png?303-4" alt="Buscar" width="12" height="13" /></button>								<input type='hidden' name="title" value="Especial:Buscar"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+				</div>
+			</div>
+			<!-- /header -->
+			<!-- panel -->
+			<div id="mw-panel">
+				<!-- logo -->
+					<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/WiktionaryEs.svg/135px-WiktionaryEs.svg.png);" href="/wiki/Wikcionario:Portada"  title="Visitar la página principal"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" role="navigation" id='p-navigation'>
+	<h3>Navegación</h3>
+	<div class="body">
+		<ul>
+			<li id="n-Portada"><a href="/wiki/Wikcionario:Portada">Portada</a></li>
+			<li id="n-Todas-las-p.C3.A1ginas"><a href="/wiki/Especial:Todas">Todas las páginas</a></li>
+			<li id="n-currentevents"><a href="/wiki/Wikcionario:Actualidad" title="Información de contexto sobre acontecimientos actuales">Actualidad</a></li>
+			<li id="n-Consultas"><a href="/wiki/Wikcionario:Consultas">Consultas</a></li>
+			<li id="n-Solicitudes"><a href="/wiki/Wikcionario:Solicitudes">Solicitudes</a></li>
+			<li id="n-randompage"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x">Página aleatoria</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- Colaboración -->
+<div class="portal" role="navigation" id='p-Colaboraci.C3.B3n'>
+	<h3>Colaboración</h3>
+	<div class="body">
+		<ul>
+			<li id="n-portal"><a href="/wiki/Ayuda:Mapa_de_ayuda" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información">Portal de la comunidad</a></li>
+			<li id="n-Caf.C3.A9"><a href="/wiki/Wikcionario:Caf%C3%A9">Café</a></li>
+			<li id="n-P.C3.A1ginas-requeridas"><a href="/wiki/Especial:P%C3%A1ginasRequeridas">Páginas requeridas</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en el wiki [r]" accesskey="r">Cambios recientes</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /Colaboración -->
+
+<!-- Ayuda -->
+<div class="portal" role="navigation" id='p-Ayuda'>
+	<h3>Ayuda</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Wikcionario:Ayuda" title="El lugar para aprender">Ayuda</a></li>
+			<li id="n-Tutorial"><a href="/wiki/Ayuda:Tutorial">Tutorial</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wiktionary.org&amp;uselang=es" title="Apóyanos">Donativos</a></li>
+			<li id="n-Embajada---embassy"><a href="/wiki/Wikcionario:Embajada">Embajada - embassy</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /Ayuda -->
+
+<!-- TOOLBOX -->
+<div class="portal" role="navigation" id='p-tb'>
+	<h3>Herramientas</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Especial:LoQueEnlazaAqu%C3%AD/Categor%C3%ADa:ES:Adjetivos" title="Lista de todas las páginas del wiki que enlazan aquí [j]" accesskey="j">Lo que enlaza aquí</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Especial:CambiosEnEnlazadas/Categor%C3%ADa:ES:Adjetivos" title="Cambios recientes en las páginas que enlazan con ésta [k]" accesskey="k">Cambios relacionados</a></li>
+			<li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:Upload?uselang=es" title="Subir imágenes o archivos multimedia [u]" accesskey="u">Subir un archivo</a></li>
+			<li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q">Páginas especiales</a></li>
+			<li id="t-print"><a href="/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;printable=yes" rel="alternate" title="Versión imprimible de esta página [p]" accesskey="p">Versión para imprimir</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;oldid=927275" title="Enlace permanente a esta versión de la página">Enlace permanente</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Categor%C3%ADa:ES:Adjetivos&amp;action=info">Información de la página</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+<div class="portal" role="navigation" id='p-lang'>
+	<h3>Otros idiomas</h3>
+	<div class="body">
+		<ul>
+			<li class="interwiki-an"><a href="//an.wiktionary.org/wiki/Categor%C3%ADa:ES:Alchetibos" title="Categoría:ES:Alchetibos" lang="an" hreflang="an">Aragonés</a></li>
+			<li class="interwiki-ar"><a href="//ar.wiktionary.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81:%D8%B5%D9%81%D8%A7%D8%AA_%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A9" title="تصنيف:صفات إسبانية" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-ast"><a href="//ast.wiktionary.org/wiki/Categor%C3%ADa:Axetivos_espa%C3%B1oles" title="Categoría:Axetivos españoles" lang="ast" hreflang="ast">Asturianu</a></li>
+			<li class="interwiki-ca"><a href="//ca.wiktionary.org/wiki/Categoria:Adjectius_en_castell%C3%A0" title="Categoria:Adjectius en castellà" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wiktionary.org/wiki/Kategorie:%C5%A0pan%C4%9Blsk%C3%A1_adjektiva" title="Kategorie:Španělská adjektiva" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-cy"><a href="//cy.wiktionary.org/wiki/Categori:Ansoddeiriau_Sbaeneg" title="Categori:Ansoddeiriau Sbaeneg" lang="cy" hreflang="cy">Cymraeg</a></li>
+			<li class="interwiki-da"><a href="//da.wiktionary.org/wiki/Kategori:Adjektiver_p%C3%A5_spansk" title="Kategori:Adjektiver på spansk" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wiktionary.org/wiki/Kategorie:Adjektiv_(Spanisch)" title="Kategorie:Adjektiv (Spanisch)" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-el"><a href="//el.wiktionary.org/wiki/%CE%9A%CE%B1%CF%84%CE%B7%CE%B3%CE%BF%CF%81%CE%AF%CE%B1:%CE%95%CF%80%CE%AF%CE%B8%CE%B5%CF%84%CE%B1_(%CE%B9%CF%83%CF%80%CE%B1%CE%BD%CE%B9%CE%BA%CE%AC)" title="Κατηγορία:Επίθετα (ισπανικά)" lang="el" hreflang="el">Ελληνικά</a></li>
+			<li class="interwiki-en"><a href="//en.wiktionary.org/wiki/Category:Spanish_adjectives" title="Category:Spanish adjectives" lang="en" hreflang="en">English</a></li>
+			<li class="interwiki-eo"><a href="//eo.wiktionary.org/wiki/Kategorio:Adjektivo_(Hispana)" title="Kategorio:Adjektivo (Hispana)" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wiktionary.org/wiki/Kategoria:Adjektiboak_gaztelaniaz" title="Kategoria:Adjektiboak gaztelaniaz" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fa"><a href="//fa.wiktionary.org/wiki/%D8%B1%D8%AF%D9%87:%D8%B5%D9%81%D8%AA%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%A7%D8%B3%D9%BE%D8%A7%D9%86%DB%8C%D8%A7%DB%8C%DB%8C" title="رده:صفت‌های اسپانیایی" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fi"><a href="//fi.wiktionary.org/wiki/Luokka:Espanjan_kielen_adjektiivit" title="Luokka:Espanjan kielen adjektiivit" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-fo"><a href="//fo.wiktionary.org/wiki/B%C3%B3lkur:Sponsk_l%C3%BDsingaror%C3%B0" title="Bólkur:Sponsk lýsingarorð" lang="fo" hreflang="fo">Føroyskt</a></li>
+			<li class="interwiki-fr"><a href="//fr.wiktionary.org/wiki/Cat%C3%A9gorie:Adjectifs_en_espagnol" title="Catégorie:Adjectifs en espagnol" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-ga"><a href="//ga.wiktionary.org/wiki/Catag%C3%B3ir:Sp%C3%A1innis:_aidiachta%C3%AD" title="Catagóir:Spáinnis: aidiachtaí" lang="ga" hreflang="ga">Gaeilge</a></li>
+			<li class="interwiki-hr"><a href="//hr.wiktionary.org/wiki/Kategorija:%C5%A0panjolski_pridjevi" title="Kategorija:Španjolski pridjevi" lang="hr" hreflang="hr">Hrvatski</a></li>
+			<li class="interwiki-hu"><a href="//hu.wiktionary.org/wiki/Kateg%C3%B3ria:spanyol_mell%C3%A9knevek" title="Kategória:spanyol melléknevek" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-id"><a href="//id.wiktionary.org/wiki/Kategori:es:Adjektiva" title="Kategori:es:Adjektiva" lang="id" hreflang="id">Bahasa Indonesia</a></li>
+			<li class="interwiki-it"><a href="//it.wiktionary.org/wiki/Categoria:Aggettivi_in_spagnolo" title="Categoria:Aggettivi in spagnolo" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-ka"><a href="//ka.wiktionary.org/wiki/%E1%83%99%E1%83%90%E1%83%A2%E1%83%94%E1%83%92%E1%83%9D%E1%83%A0%E1%83%98%E1%83%90:%E1%83%96%E1%83%94%E1%83%93%E1%83%A1%E1%83%90%E1%83%A0%E1%83%97%E1%83%90%E1%83%95%E1%83%98_%E1%83%A1%E1%83%90%E1%83%AE%E1%83%94%E1%83%9A%E1%83%98_(%E1%83%94%E1%83%A1%E1%83%9E%E1%83%90%E1%83%9C%E1%83%A3%E1%83%A0%E1%83%98)" title="კატეგორია:ზედსართავი სახელი (ესპანური)" lang="ka" hreflang="ka">ქართული</a></li>
+			<li class="interwiki-ko"><a href="//ko.wiktionary.org/wiki/%EB%B6%84%EB%A5%98:%ED%98%95%EC%9A%A9%EC%82%AC(%EC%97%90%EC%8A%A4%ED%8C%8C%EB%83%90%EC%96%B4)" title="분류:형용사(에스파냐어)" lang="ko" hreflang="ko">한국어</a></li>
+			<li class="interwiki-ku"><a href="//ku.wiktionary.org/wiki/Kategor%C3%AE:Rengd%C3%AAr_(Span%C3%AE)" title="Kategorî:Rengdêr (Spanî)" lang="ku" hreflang="ku">Kurdî</a></li>
+			<li class="interwiki-lb"><a href="//lb.wiktionary.org/wiki/Kategorie:Adjektiver_(Spuenesch)" title="Kategorie:Adjektiver (Spuenesch)" lang="lb" hreflang="lb">Lëtzebuergesch</a></li>
+			<li class="interwiki-li"><a href="//li.wiktionary.org/wiki/Categorie:Sp%C3%A4%C3%B6nsj_bievogelik_naomswaordj" title="Categorie:Späönsj bievogelik naomswaordj" lang="li" hreflang="li">Limburgs</a></li>
+			<li class="interwiki-lt"><a href="//lt.wiktionary.org/wiki/Kategorija:Ispan%C5%B3_kalbos_b%C5%ABdvard%C5%BEiai" title="Kategorija:Ispanų kalbos būdvardžiai" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-mg"><a href="//mg.wiktionary.org/wiki/Sokajy:Mpamaritra_anarana_amin%27ny_teny_espaniola" title="Sokajy:Mpamaritra anarana amin'ny teny espaniola" lang="mg" hreflang="mg">Malagasy</a></li>
+			<li class="interwiki-nl"><a href="//nl.wiktionary.org/wiki/Categorie:Bijvoeglijk_naamwoord_in_het_Spaans" title="Categorie:Bijvoeglijk naamwoord in het Spaans" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-no"><a href="//no.wiktionary.org/wiki/Kategori:Adjektiv_i_spansk" title="Kategori:Adjektiv i spansk" lang="no" hreflang="no">Norsk bokmål</a></li>
+			<li class="interwiki-oc"><a href="//oc.wiktionary.org/wiki/Categoria:Adjectius_en_espanh%C3%B2l" title="Categoria:Adjectius en espanhòl" lang="oc" hreflang="oc">Occitan</a></li>
+			<li class="interwiki-pt"><a href="//pt.wiktionary.org/wiki/Categoria:Adjetivo_(Espanhol)" title="Categoria:Adjetivo (Espanhol)" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ro"><a href="//ro.wiktionary.org/wiki/Categorie:Adjective_%C3%AEn_spaniol%C4%83" title="Categorie:Adjective în spaniolă" lang="ro" hreflang="ro">Română</a></li>
+			<li class="interwiki-ru"><a href="//ru.wiktionary.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D1%80%D0%B8%D0%BB%D0%B0%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5" title="Категория:Испанские прилагательные" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sv"><a href="//sv.wiktionary.org/wiki/Kategori:Spanska/Adjektiv" title="Kategori:Spanska/Adjektiv" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-th"><a href="//th.wiktionary.org/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%84%E0%B8%B3%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A8%E0%B8%B1%E0%B8%9E%E0%B8%97%E0%B9%8C%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B8%AA%E0%B9%80%E0%B8%9B%E0%B8%99" title="หมวดหมู่:คำคุณศัพท์ภาษาสเปน" lang="th" hreflang="th">ไทย</a></li>
+			<li class="interwiki-tr"><a href="//tr.wiktionary.org/wiki/Kategori:S%C4%B1fat_(%C4%B0spanyolca)" title="Kategori:Sıfat (İspanyolca)" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-vi"><a href="//vi.wiktionary.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:T%C3%ADnh_t%E1%BB%AB_ti%E1%BA%BFng_T%C3%A2y_Ban_Nha" title="Thể loại:Tính từ tiếng Tây Ban Nha" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+			<li class="interwiki-wa"><a href="//wa.wiktionary.org/wiki/Categoreye:Addjectifs_espagnols" title="Categoreye:Addjectifs espagnols" lang="wa" hreflang="wa">Walon</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+			<!-- /panel -->
+		</div>
+		<!-- footer -->
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> <div style="margin-bottom: 0.5em;">
+Esta página fue modificada por última vez el 15:32, 15 mar 2013.</div> </li>
+											<li id="footer-info-copyright">El texto está disponible bajo la <a href="//creativecommons.org/licenses/by-sa/3.0/deed.es">Licencia Creative Commons Atribución/Compartir-Igual 3.0</a>;
+pueden aplicarse términos adicionales.
+Véase <a href="//wikimediafoundation.org/wiki/Términos_de_Uso">Términos de uso</a> para más detalles.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Wikcionario:Pol%C3%ADtica_de_protecci%C3%B3n_de_datos" title="Wikcionario:Política de protección de datos">Política de protección de datos</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikcionario:Acerca_de" title="Wikcionario:Acerca de">Acerca de Wikcionario</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikcionario:Limitaci%C3%B3n_general_de_responsabilidad" title="Wikcionario:Limitación general de responsabilidad">Aviso legal</a></li>
+											<li id="footer-places-mobileview"><a href="http://es.m.wiktionary.org/wiki/Categor%C3%ADa:ES:Adjetivos" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf12/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","ext.categoryTree","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","mobile.desktop","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.navigationTiming","mw.PopUpMediaTransform","skins.vector.js"], null, true);
+}</script>
+<script src="//bits.wikimedia.org/es.wiktionary.org/load.php?debug=false&amp;lang=es&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw1187 in 0.205 secs. -->
+	</body>
+</html>

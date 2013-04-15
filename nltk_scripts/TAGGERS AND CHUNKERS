@@ -1,0 +1,59 @@
+TAGGERS
+
+Lisa:nltk-trainer stephan$ python train_tagger.py conll2002 --fileids 'esp.train6' --brill --classifier NaiveBayes --cutoff_prob 0.95 
+loading conll2002
+using tagged sentences from esp.train6
+1284 tagged sents, training on 1284
+training AffixTagger with affix -3 and backoff <DefaultTagger: tag=-None->
+training <class 'nltk.tag.sequential.UnigramTagger'> tagger with backoff <AffixTagger: size=1781>
+training <class 'nltk.tag.sequential.BigramTagger'> tagger with backoff <UnigramTagger: size=3115>
+training <class 'nltk.tag.sequential.TrigramTagger'> tagger with backoff <BigramTagger: size=1283>
+training ['NaiveBayes'] ClassifierBasedPOSTagger
+Constructing training corpus for classifier.
+Training classifier (34872 instances)
+training NaiveBayes classifier
+Training Brill tagger on 1284 sentences...
+Finding initial useful rules...
+    Found 3681 useful rules.
+Selecting rules...
+evaluating BrillTagger
+accuracy: 0.963839
+dumping BrillTagger to /Users/stephan/nltk_data/taggers/conll2002_brill_NaiveBayes_aubt.pickle
+
+
+
+Lisa:nltk-trainer stephan$ python train_tagger.py conll2002 --fileids 'esp.train6' --classifier NaiveBayes --cutoff_prob 0.95 
+loading conll2002
+using tagged sentences from esp.train6
+1284 tagged sents, training on 1284
+training AffixTagger with affix -3 and backoff <DefaultTagger: tag=-None->
+training <class 'nltk.tag.sequential.UnigramTagger'> tagger with backoff <AffixTagger: size=1781>
+training <class 'nltk.tag.sequential.BigramTagger'> tagger with backoff <UnigramTagger: size=3115>
+training <class 'nltk.tag.sequential.TrigramTagger'> tagger with backoff <BigramTagger: size=1283>
+training ['NaiveBayes'] ClassifierBasedPOSTagger
+Constructing training corpus for classifier.
+Training classifier (34872 instances)
+training NaiveBayes classifier
+evaluating ClassifierBasedPOSTagger
+accuracy: 0.959337
+dumping ClassifierBasedPOSTagger to /Users/stephan/nltk_data/taggers/conll2002_NaiveBayes_aubt.pickle
+
+CHUNKERS 
+
+Lisa:nltk-trainer stephan$ python train_chunker.py conll2002 --fileids 'esp.train6' --classifier NaiveBayes --filename chunker_naiveBayes_espTrain6.pickle
+loading conll2002
+conll2002 None esp.train6
+
+using chunked sentences from esp.train6
+1284 chunks, training on 1284
+training ClassifierChunker with ['NaiveBayes'] classifier
+Constructing training corpus for classifier.
+Training classifier (34872 instances)
+training NaiveBayes classifier
+evaluating ClassifierChunker
+ChunkParse score:
+    IOB Accuracy:  92.4%
+    Precision:     56.3%
+    Recall:        58.3%
+    F-Measure:     57.3%
+dumping ClassifierChunker to chunker_naiveBayes_espTrain6.pickle
